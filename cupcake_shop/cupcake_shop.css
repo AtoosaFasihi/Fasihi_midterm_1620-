@@ -1,0 +1,24 @@
+:target {
+    background-color: #7EA88E;
+}
+ a:link {
+    color: #28536B;
+}
+a:visited {
+    color: #C09187;
+}
+h1 {
+    color: #7EA88E;
+}
+p {
+    color: #28536B;
+}
+font-face {
+    font-family: 'Markazi Text', serif;
+}
+font-face {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+li{
+    color: #28536B;
+}
